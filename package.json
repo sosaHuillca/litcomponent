@@ -1,0 +1,18 @@
+{
+  "name": "p-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@web/dev-server": "^0.2.2"
+  },
+  "dependencies": {
+    "lit": "^2.7.5"
+  }
+}
